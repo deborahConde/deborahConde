@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deborahConde 
 - 👀 I’m interested in all things technology, .NET C#, and software engineering.
-- 🌱 I’m currently learning .Net Core & JavaScript 
+- 🌱 I'm currently learning Python  
 - 💞️ I’m looking to collaborate on anything I can help in, specially all things Microsoft :)
 - 📫 You can reach me in deborahsc23@gmail.com 
 
